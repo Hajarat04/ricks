@@ -4,7 +4,7 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 
-# Example usage:
-n = 5  # Replace with the number for which you want to calculate the factorial
+
+n = 5  
 result = factorial(n)
 print(f"The factorial of {n} is {result}")
